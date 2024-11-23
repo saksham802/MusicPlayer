@@ -62,12 +62,19 @@ Search
 
 🛠️ Installation
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/rythmiq.git  
-Open the project in Android Studio.
-Sync Gradle and configure Firebase for your app.
-Build and run the app on an emulator or physical device.
+
+1.bash
+
+2.Copy code
+
+3.git clone https://github.com/yourusername/rythmiq.git  
+
+4.Open the project in Android Studio.
+
+5.Sync Gradle and configure Firebase for your app.
+
+6.Build and run the app on an emulator or physical device.
+
 🤝 Contributing
 We welcome contributions to make Rythmiq even better! Please fork the repo and create a pull request with your proposed changes.
 
