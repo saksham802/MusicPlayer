@@ -19,21 +19,31 @@ Payment Integration: Easy UPI Payment API
 Image Handling: Picasso & Glide
 📱 Screenshots
 Home Screen
+
+
 ![home](https://github.com/user-attachments/assets/f28e64c1-1d0b-4273-a364-17aa6c99ddcb)
 
 
 TuneClips Screen
+
+
 ![image](https://github.com/user-attachments/assets/45796c39-26f1-4bf1-bc5f-2a517a136dde)
 
 
 Music Player Screen
+
+
 ![Player](https://github.com/user-attachments/assets/230d7e9f-24a4-4492-8e9b-65238f30bd69)
 
 
 Playlist
+
+
 ![Playlist](https://github.com/user-attachments/assets/5b81e50d-809d-42e1-9568-0b0e597468f9)
 
 Search
+
+
 ![Search](https://github.com/user-attachments/assets/c405af0a-1ceb-44ba-a12b-bcba4717272e)
 
 
