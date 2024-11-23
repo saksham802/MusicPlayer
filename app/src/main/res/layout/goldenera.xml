@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginVertical="16dp"
+    android:layout_marginEnd="16dp"
+    android:id="@+id/goldenclick"
+    >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:cardCornerRadius="10dp"
+        android:id="@+id/golden_era_card"
+    >
+
+    <ImageView
+        android:id="@+id/golden_era_cover_image"
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:scaleType="fitXY" />
+</androidx.cardview.widget.CardView>
+
+<TextView
+android:id="@+id/golden_era_name"
+    android:layout_width="wrap_content"
+    android:layout_marginLeft="7dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:layout_marginTop="10dp"
+    android:text="Golden Era Title"
+    android:textColor="@color/white"
+    android:textSize="15sp" />
+    </LinearLayout>

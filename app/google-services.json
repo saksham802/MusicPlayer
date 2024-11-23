@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "211506031915",
+    "project_id": "music-app-4a175",
+    "storage_bucket": "music-app-4a175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211506031915:android:4a23b551a777ec8c56696e",
+        "android_client_info": {
+          "package_name": "com.sak.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2PEjuacjFMCgcL5dXlTB1AcdDkfTOEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211506031915:android:e09b0eb337567bfe56696e",
+        "android_client_info": {
+          "package_name": "com.sak.temp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2PEjuacjFMCgcL5dXlTB1AcdDkfTOEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

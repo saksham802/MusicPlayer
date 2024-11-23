@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home" android:title="Home" android:iconTint="@color/white" android:icon="@drawable/homeicon" />
+    <item android:id="@+id/search" android:title="TuneClip" android:icon="@drawable/shorts" />
+    <item android:id="@+id/profile" android:title="Profile" android:icon="@drawable/trueicon"/>
+</menu>
